@@ -1,3 +1,3 @@
 Projeto de web scrapping com analise e processamento de dados.
 
-Pegando informações do site que contem uma tabela com tipo de investimento em fundos imobiliários.
+Pegando informações de uma tabela pública de um site que tipos de investimento em fundos imobiliários, tratando e analisando os dados
